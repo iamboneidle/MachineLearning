@@ -2,12 +2,11 @@
 .DS_Store
 .ipynb_checkpoints/
 
-data/
-# data/air_reserve.csv
-# data/hpg_reserve.csv
-# data/air_store_info.csv
-# data/hpg_store_info.csv
-# data/store_id_relation.csv
-# data/air_visit_data.csv
-# data/date_info.csv
-# data/sample_submission.csv
+data/air_reserve.csv
+data/hpg_reserve.csv
+data/air_store_info.csv
+data/hpg_store_info.csv
+data/store_id_relation.csv
+data/air_visit_data.csv
+data/date_info.csv
+data/sample_submission.csv
